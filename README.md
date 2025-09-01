@@ -111,8 +111,6 @@ me.say_hi()
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightgreen&style=for-the-badge)
-
 **⭐ From [Animesh Sameer](https://github.com/YourGitHubUsername)**
 
 </div>
