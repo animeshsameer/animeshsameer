@@ -16,7 +16,7 @@
 │  animesh_sameer                                             │
 │                                                             │
 │  > cat /etc/profile                                         │
-│  🎓 VIT Bhopal University                                   │
+│  🎓 VIT Bhopal University                                  │
 │  📚 Integrated M.Tech CSE                                  │
 │  🔒 Specialization: Cyber Security & Digital Forensics     │
 │  🌐 Passionate about securing digital ecosystems           │
